@@ -1,2 +1,4 @@
 # aulas-html-alura
-Esse repositório foi criado para poder colocar em pratica o HTML. O professor Pedro Mari
+Esse repositorio é um repositorio de estudo em que eu estou criando para poder compreender melhor o HTML.
+Esse curso foi feito com Html pela Alura feito pelo professor Pedro Marin.
+O curso é divido em 4 modulos.
