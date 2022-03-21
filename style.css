@@ -3,4 +3,13 @@ body {
     font-size: large;
     background-color: blueviolet;
     color: antiquewhite;
+    height: 0%;
+    width: auto;
+    padding: 0%;
+    margin: auto;
+    clear: both;
+    float: inline-end;
+    opacity: initial;
+    box-shadow:inset;
+    text-shadow: none;
 }
