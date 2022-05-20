@@ -13,3 +13,8 @@ body {
     box-shadow:inset;
     text-shadow: none;
 }
+
+h1 {
+    font-style: normal;
+    font-size: medium;
+}
